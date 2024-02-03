@@ -1,0 +1,12 @@
+[submodule "LAP-Gateway"]
+	path = LAP-Gateway
+	url = git@github.com:CCulp2/LAP-Gateway.git
+[submodule "LAP-NotificationEngine"]
+	path = LAP-NotificationEngine
+	url = git@github.com:CCulp2/LAP-NotificationEngine.git
+[submodule "LAP-UserManagement"]
+	path = LAP-UserManagement
+	url = git@github.com:CCulp2/LAP-UserManagement.git
+[submodule "LAP-Monitoring"]
+	path = LAP-Monitoring
+	url = git@github.com:CCulp2/LAP-Monitoring.git
